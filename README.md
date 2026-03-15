@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @
-- 🌱 I’m currently learning Javascript, Python, C and C++
-
 # Hi, I'm Ayaz 👋
 
 Computer Science student interested in backend development, data science, and algorithmic systems.
